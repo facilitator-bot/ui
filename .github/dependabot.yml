@@ -8,3 +8,11 @@ updates:
       - "cm-kazup0n"
     reviewers:
      - "cm-kazup0n"
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    assignees:
+      - "cm-kazup0n"
+    reviewers:
+     - "cm-kazup0n"

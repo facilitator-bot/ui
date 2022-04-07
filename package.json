@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "format": "elm-format src/Main.elm",
-    "build": "elm-app build"
+    "build": "elm-app build",
+    "start": "elm-app start"
   },
   "devDependencies": {
     "create-elm-app": "^5.22.0",

@@ -12,7 +12,7 @@
     "create-elm-app": "^5.22.0",
     "elm": "^0.19.1-5",
     "elm-format": "^0.8.5",
-    "elm-test": "^0.19.1-revision7"
+    "elm-test": "^0.19.1-revision9"
   },
   "dependencies": {
     "@aws-sdk/client-cognito-identity-provider": "^3.72.0",
